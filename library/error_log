@@ -1,0 +1,15 @@
+[29-Dec-2016 08:51:02 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 63
+[29-Dec-2016 08:53:12 UTC] PHP Fatal error:  Using $this when not in object context in /home/icium/taide2015.fi/library/sendmail.php on line 67
+[29-Dec-2016 08:55:04 UTC] PHP Fatal error:  Using $this when not in object context in /home/icium/taide2015.fi/library/sendmail.php on line 67
+[29-Dec-2016 08:57:10 UTC] PHP Fatal error:  Using $this when not in object context in /home/icium/taide2015.fi/library/sendmail.php on line 67
+[29-Dec-2016 09:13:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/icium/taide2015.fi/library/sendmail.php on line 67
+[29-Dec-2016 10:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/icium/taide2015.fi/library/sendmail.php on line 67
+[29-Dec-2016 10:20:59 UTC] PHP Fatal error:  Using $this when not in object context in /home/icium/taide2015.fi/library/sendmail.php on line 67
+[29-Dec-2016 10:32:14 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:33:26 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:34:08 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:34:53 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:36:12 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:48:35 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:51:58 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
+[29-Dec-2016 10:54:11 UTC] PHP Notice:  Undefined index: reason in /home/icium/taide2015.fi/library/sendmail.php on line 64
